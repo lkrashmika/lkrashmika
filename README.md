@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Rashmika</h1>
-<h3 align="center">A passionate developer from Sri-Lanka</h3>
+<h3 align="center">A Computer Science Student from Sri-Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkrashmika&label=Profile%20views&color=0e75b6&style=flat" alt="lkrashmika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lkrashmika" alt="lkrashmika" /></a> </p>
 
 - 🔭 I’m currently working on [GreenVibes.LK](https://github.com/GreenvibesLK)
+-    I’m Studied at [NSBM GREEN UNIVERSITY](https://www.nsbm.ac.lk)
 
 - 📫 How to reach me **lkrashmika@gmail.com**
 
