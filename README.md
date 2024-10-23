@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lkrashmika" alt="lkrashmika" /></a> </p>
 
-- 🔭 I’m currently working on [GreenVibes.LK](https://github.com/GreenvibesLK)
+- 🔭 I’m currently working on iTelaSoft pvt ltd
 -    I Studied at [NSBM GREEN UNIVERSITY](https://www.nsbm.ac.lk)
 
 - 📫 How to reach me **lkrashmika@gmail.com**
